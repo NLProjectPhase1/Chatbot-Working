@@ -1,19 +1,11 @@
 from flask import Flask, render_template, request, redirect, url_for, session, jsonify,send_file,Response
-import mysql.connector
 import cv2
 from deepface import DeepFace
 import time
-import chromadb
-from gpt4all import GPT4All
 import threading
 import os
-import bcrypt
 import json
 from datetime import datetime
-from faster_whisper import WhisperModel
-import tempfile
-from gtts import gTTS
-import io
 import sqlite3
 from flask_session import Session
 import requests

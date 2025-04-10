@@ -8,3 +8,6 @@ pandas
 requests
 Flask-Session
 tf-keras
+gunicorn
+tensorflow==2.19.0
+tf-keras

@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": "2025-04-10 14:09:48.245425",
+        "emotion": "sad"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:49.314181",
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:51.668592",
+        "emotion": "fear"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:53.574007",
+        "emotion": "angry"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:55.052563",
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:57.844958",
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2025-04-10 14:09:58.438725",
+        "emotion": "sad"
+    }
+]
